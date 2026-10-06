@@ -9,7 +9,7 @@ Desarrollador junior y estudiante avanzado de Ingeniería en Informática (UNSTA
 - **CMS:** Sitefinity DX (Progress)
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, Streamlit
 - **Bases de datos:** MySQL, SQLite, SQLAlchemy
-- **Herramientas:** Git, GitHub, GitLab
+- **Herramientas:** Git, GitHub, GitLab, pruebas unitarias (unittest)
 
 ## Certificaciones
 
@@ -21,7 +21,8 @@ Desarrollador junior y estudiante avanzado de Ingeniería en Informática (UNSTA
 ## Proyectos
 
 - [Gestion-Bares-con-IA](https://github.com/ivechetti/Gestion-Bares-con-IA): API REST en Python (FastAPI + SQLAlchemy) con CRUD, ingesta de datos y detección de duplicados.
-- [tp2-economia](https://github.com/ivechetti/tp2-economia): simulador interactivo de políticas públicas con Streamlit y Plotly.
+- [automatizacion-facturas](https://github.com/ivechetti/automatizacion-facturas): prototipo en Python que lee facturas en PDF, extrae y valida sus datos (CUIT, importes), los guarda en SQLite y exporta a CSV. CLI y API REST con FastAPI, con 19 pruebas unitarias.
+- [tp2-economia](https://github.com/ivechetti/tp2-economia): simulador interactivo de políticas públicas con Streamlit y Plotly (proyecto grupal).
 - [gestor-tareas-csharp](https://github.com/ivechetti/gestor-tareas-csharp): aplicación de consola en C# / .NET con persistencia en JSON.
 - [portfolio-web](https://github.com/ivechetti/portfolio-web): portfolio personal con HTML, CSS y Bootstrap.
 
